@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
+  <mets:metsHdr CREATEDATE="2019-02-01T14:05:09">
+    <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+      <mets:name>Goobi - UGH-1.11.1-v1.11.0-11-gbafb11b - 16−November−2015</mets:name>
+      <mets:note>Goobi</mets:note>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDLOG_0000">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">––
+          <mods:location>
+            <mods:physicalLocation authority="marcorg"
+              displayLabel="Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany"
+              >DE-1</mods:physicalLocation>
+            <mods:shelfLocator>Sturm-Archiv I, Marc, Franz, Bl. 208</mods:shelfLocator>
+          </mods:location>
+          <mods:originInfo>
+            <mods:place>
+              <mods:placeTerm type="text">Ried</mods:placeTerm>
+            </mods:place>
+            <mods:dateCreated encoding="iso8601" point="start">1915-07-10</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" keyDate="yes">1915</mods:dateCreated>
+          </mods:originInfo>
+          <mods:originInfo eventType="digitization">
+            <mods:place>
+              <mods:placeTerm type="text">Berlin</mods:placeTerm>
+            </mods:place>
+            <mods:dateCaptured encoding="iso8601">2013</mods:dateCaptured>
+            <mods:publisher>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz,
+              Germany</mods:publisher>
+            <mods:edition>[Electronic ed.]</mods:edition>
+          </mods:originInfo>
+          <mods:classification authority="ZVDD">Krieg 1914-1918</mods:classification>
+          <mods:classification authority="ZVDD">Nachlässe und Autographe</mods:classification>
+          <mods:recordInfo>
+            <mods:recordIdentifier source="gbv-ppn">PPN746598947</mods:recordIdentifier>
+          </mods:recordInfo>
+          <mods:identifier type="purl"
+            >http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000000</mods:identifier>
+          <mods:note type="bibliography">Kalliope-Nr. d. übergeordneten Datensatzes:
+            00033719</mods:note>
+          <mods:identifier type="KOPE">01925450</mods:identifier>
+          <mods:titleInfo>
+            <mods:title>Korrespondenz</mods:title>
+          </mods:titleInfo>
+          <mods:genre authority="aad" type="class">Korrespondenz</mods:genre>
+          <mods:subject authority="EC1418">
+            <mods:genre>postcard</mods:genre>
+            <mods:genre>autograph</mods:genre>
+          </mods:subject>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+          </mods:language>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Marc</mods:namePart>
+            <mods:namePart type="given">Franz</mods:namePart>
+            <mods:displayForm>Marc, Franz</mods:displayForm>
+          </mods:name>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">asn</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Walden</mods:namePart>
+            <mods:namePart type="given">Herwarth</mods:namePart>
+            <mods:displayForm>Walden, Herwarth</mods:displayForm>
+          </mods:name>
+          <mods:physicalDescription>
+            <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+            <mods:extent>1 eigenhändige Postkarte mit Unterschrift</mods:extent>
+          </mods:physicalDescription>
+          <mods:relatedItem type="series">
+            <mods:titleInfo>
+              <mods:title>Europeana Collections 1914–1918</mods:title>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:name type="corporate">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">fnd</mods:roleTerm>
+            </mods:role>
+            <mods:namePart>European Commission</mods:namePart>
+          </mods:name>
+          <mods:accessCondition type="use and reproduction">Public Domain</mods:accessCondition>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="AMD">
+    <mets:rightsMD ID="RIGHTS">
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+        <mets:xmlData>
+          <dv:rights xmlns:dv="http://dfg-viewer.de/">
+            <dv:owner>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dv:owner>
+            <dv:ownerLogo>http://resolver.staatsbibliothek-berlin.de/SBB0000000100000000</dv:ownerLogo>
+            <dv:ownerSiteURL>http://www.staatsbibliothek-berlin.de</dv:ownerSiteURL>
+            <dv:ownerContact>mailto:info@sbb.spk-berlin.de</dv:ownerContact>
+          </dv:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="DIGIPROV">
+      <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference>http://www.stabikat.de/DB=1/PPN?PPN=746598947 </dv:reference>
+            <dv:presentation>http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN746598947</dv:presentation>
+          </dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="PRESENTATION">
+      <mets:file ID="FILE_0001_PRESENTATION" MIMETYPE="image/tiff">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="file:///goobi/tiff001/sbb/PPN746598947/00000001.tif"/>
+      </mets:file>
+      <mets:file ID="FILE_0002_PRESENTATION" MIMETYPE="image/tiff">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="file:///goobi/tiff001/sbb/PPN746598947/00000002.tif"/>
+      </mets:file>
+      <mets:file ID="FILE_0003_PRESENTATION" MIMETYPE="image/tiff">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="file:///goobi/tiff001/sbb/PPN746598947/00000003.tif"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DEFAULT">
+      <mets:file ID="FILE_0001_DEFAULT" MIMETYPE="image/jpg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/800/0/00000001.jpg"
+        />
+      </mets:file>
+      <mets:file ID="FILE_0002_DEFAULT" MIMETYPE="image/jpg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/800/0/00000002.jpg"
+        />
+      </mets:file>
+      <mets:file ID="FILE_0003_DEFAULT" MIMETYPE="image/jpg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/800/0/00000003.jpg"
+        />
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="THUMBS">
+      <mets:file ID="FILE_0001_THUMBS" MIMETYPE="image/png">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/150/0/00000001.png"
+        />
+      </mets:file>
+      <mets:file ID="FILE_0002_THUMBS" MIMETYPE="image/png">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/150/0/00000002.png"
+        />
+      </mets:file>
+      <mets:file ID="FILE_0003_THUMBS" MIMETYPE="image/png">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL"
+          xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN746598947/150/0/00000003.png"
+        />
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div ADMID="AMD"
+      CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000000"
+      DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="Korrespondenz" ORDERLABEL="Korrespondenz"
+      TYPE="manuscript"/>
+  </mets:structMap>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000000"
+      ID="PHYS_0000" TYPE="physSequence">
+      <mets:div CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000001"
+        ID="PHYS_0001" ORDER="1" ORDERLABEL=" - " TYPE="page">
+        <mets:fptr FILEID="FILE_0001_PRESENTATION"/>
+        <mets:fptr FILEID="FILE_0001_DEFAULT"/>
+        <mets:fptr FILEID="FILE_0001_THUMBS"/>
+      </mets:div>
+      <mets:div CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000002"
+        ID="PHYS_0002" ORDER="2" ORDERLABEL=" - " TYPE="page">
+        <mets:fptr FILEID="FILE_0002_PRESENTATION"/>
+        <mets:fptr FILEID="FILE_0002_DEFAULT"/>
+        <mets:fptr FILEID="FILE_0002_THUMBS"/>
+      </mets:div>
+      <mets:div CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0000DAC800000003"
+        ID="PHYS_0003" ORDER="3" ORDERLABEL=" - " TYPE="page">
+        <mets:fptr FILEID="FILE_0003_PRESENTATION"/>
+        <mets:fptr FILEID="FILE_0003_DEFAULT"/>
+        <mets:fptr FILEID="FILE_0003_THUMBS"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:to="PHYS_0001"
+      xlink:from="LOG_0000"/>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:to="PHYS_0002"
+      xlink:from="LOG_0000"/>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:to="PHYS_0003"
+      xlink:from="LOG_0000"/>
+  </mets:structLink>
+</mets:mets>
